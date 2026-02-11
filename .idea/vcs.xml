@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/services/GraphApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/communication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/formatosPDF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/netsuite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/rh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/tickets-service" vcs="Git" />
+  </component>
+</project>

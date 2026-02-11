@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/services/GraphApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/communication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/converter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/formatosPDF/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/labels/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/mobilecomunication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/netsuite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/notificacion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/ocr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/prueba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/rh/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/saludo-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/tickets-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

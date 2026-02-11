@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/services/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/services/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/services/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/services/security/pom.xml" />
+        <option value="$PROJECT_DIR$/services/saludo/pom.xml" />
+        <option value="$PROJECT_DIR$/services/saludo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/prueba/pom.xml" />
+        <option value="$PROJECT_DIR$/services/ocr/pom.xml" />
+        <option value="$PROJECT_DIR$/services/converter/pom.xml" />
+        <option value="$PROJECT_DIR$/services/roles/pom.xml" />
+        <option value="$PROJECT_DIR$/services/authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/services/labels/pom.xml" />
+        <option value="$PROJECT_DIR$/services/netsuite/pom.xml" />
+        <option value="$PROJECT_DIR$/services/formatosPDF/pom.xml" />
+        <option value="$PROJECT_DIR$/services/mobilecomunication/pom.xml" />
+        <option value="$PROJECT_DIR$/services/communication/pom.xml" />
+        <option value="$PROJECT_DIR$/services/GraphApi/pom.xml" />
+        <option value="$PROJECT_DIR$/services/rh/pom.xml" />
+        <option value="$PROJECT_DIR$/services/notificacion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/tickets-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/services/mobilecomunication/pom.xml" />
+        <option value="$PROJECT_DIR$/services/roles/pom.xml" />
+        <option value="$PROJECT_DIR$/services/saludo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/security/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
